@@ -3,8 +3,6 @@ package com.khaikal.noteapp
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import com.example.belajarroom.db.note.Note
-import com.example.belajarroom.db.note.NoteRepository
 
 class NoteViewModel(application: Application) : AndroidViewModel(application) {
 
