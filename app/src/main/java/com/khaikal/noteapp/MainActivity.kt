@@ -1,9 +1,5 @@
 package com.khaikal.noteapp
 
-import com.example.belajarroom.ui.main.NoteAdapter
-
-package com.example.belajarroom.ui.main
-
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem

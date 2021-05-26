@@ -1,4 +1,4 @@
-package com.example.belajarroom.ui.main
+package com.khaikal.noteapp
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.khaikal.noteapp.Note
+import com.khaikal.noteapp.R
 import kotlinx.android.synthetic.main.item_note.view.*
 
 class NoteAdapter(private val context: Context?, private val listener: (Note, Int) -> Unit) :
